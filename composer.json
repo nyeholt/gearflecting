@@ -12,5 +12,10 @@
 	"require":
 	{
 		"publero/net_gearman": "1.0.*@dev"
+	},
+	"extra": {
+		"branch-alias": {
+			"dev-master": "1.0.x-dev"
+		}
 	}
 }
